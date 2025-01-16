@@ -1,0 +1,10 @@
+@import "variables";
+
+body{
+    background-color: $body-bg;
+}
+
+// Cambiar el color de fondo de los formularios
+form {
+    background-color: $form-bg;
+}

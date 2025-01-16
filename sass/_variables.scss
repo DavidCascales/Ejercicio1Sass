@@ -1,0 +1,25 @@
+//Change the primary and secondary color of the theme.
+$primary:rgb(109, 0, 252);
+$secondary:rgb(252, 1, 1);
+//Adjust the default font size of the text.
+$font-size-base: 2rem;
+//Change the text color of the body.
+$body-color: #ff03d5;
+//Modify the border radius used across components.
+$border-radius: 0.9rem;
+//Modify the accordion button size
+$accordion-icon-width:  225rem;
+
+
+// Cambiar el color de fondo del cuerpo
+$body-bg: #f0f008;
+
+// Cambiar el color del texto de los enlaces
+$link-color: #fd0df1;
+
+
+// Cambiar el color de fondo de los formularios
+$form-bg: #067aee;
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
